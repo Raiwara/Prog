@@ -1,0 +1,11 @@
+C:\Users\choch\source\repos\Lab4_2\bin\Debug\Lab4_2.exe.config
+C:\Users\choch\source\repos\Lab4_2\bin\Debug\Lab4_2.exe
+C:\Users\choch\source\repos\Lab4_2\bin\Debug\Lab4_2.pdb
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.csproj.AssemblyReference.cache
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.Form1.resources
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.Properties.Resources.resources
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.csproj.GenerateResource.cache
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.csproj.CoreCompileInputs.cache
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.exe
+C:\Users\choch\source\repos\Lab4_2\obj\Debug\Lab4_2.pdb
